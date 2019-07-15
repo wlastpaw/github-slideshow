@@ -1,0 +1,14 @@
+diff --git a/_posts/0000-01-02-wlastpaw.md b/_posts/0000-01-02-wlastpaw.md
+new file mode 100644
+index 0000000..e396e0f
+--- /dev/null
++++ b/_posts/0000-01-02-wlastpaw.md
+@@ -0,0 +1,6 @@
++---
++layout: slide
++title: "Welcome to our second slide!"
++---
++Oh no
++Use the left arrow to go back!
+
+KOKOSZA
